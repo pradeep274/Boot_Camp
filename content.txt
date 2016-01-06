@@ -1,0 +1,9 @@
+!define TEST_SYSTEM {slim}
+!path C:\Users\s.yadav.voddepalli\Desktop\TaxCalculationFixture
+
+!|TaxCalculationFixture|
+|taxableIncome|tax?|
+|100000|0.0|
+|500000|50000.0|
+|800000|7000.0|
+|1300000|130000.0|
